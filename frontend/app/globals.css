@@ -9,3 +9,9 @@
 body {
   @apply bg-slate-50 text-slate-900;
 }
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
